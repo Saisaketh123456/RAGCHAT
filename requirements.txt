@@ -1,0 +1,13 @@
+pdfplumber
+pytesseract
+opencv-python
+pillow
+numpy
+langdetect
+sentence-transformers
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+python-dotenv
+langchain-groq
